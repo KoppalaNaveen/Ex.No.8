@@ -1,6 +1,6 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date : 16-03-2026
+# Date : 15-03-2026
 # Reg. No: 212223100023
 
 ## Aim:
